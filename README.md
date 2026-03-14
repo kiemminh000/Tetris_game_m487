@@ -1,4 +1,4 @@
-# [cite_start]Tetris for NuMaker-PFM-M487 [cite: 9]
+# Tetris for NuMaker-PFM-M487 
 
 ## 📌 Project Overview
 This project is a classic Tetris game developed for the NuMaker-PFM-M487 development board. It was created as the Group Project for the EEET2481|EEET2657 Embedded System Design and Implementation course. The goal of the project was to deliver a fully functional game with a clean graphical user interface (GUI), robust physical input handling, and highly optimized hardware drivers. 
